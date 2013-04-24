@@ -1,0 +1,6 @@
+##  Plugin Information  ##
+name: MakankoSappo
+version: 1.0
+main: hinadamari.makankosappo.MakankoSappo
+##  Original Author     ##
+author: hinadamari
